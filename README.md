@@ -49,15 +49,15 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 1. Read through the Maker Guide
 
-The [Maker Guide](/Documentation/Product_Manual-Adapted_Recorder_Button.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, and testing.
+The [Maker Guide](/documentation/Product_Manual-Adapted_Recorder_Button.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, and testing.
 
 ### 2. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/Documentation/Adapted_Recorder_Button_BOM.csv) lists all of the parts and components required to build the Adapted Recorder Button.
+The [Bill of Materials](/documentation/Adapted_Recorder_Button_BOM.csv) lists all of the parts and components required to build the Adapted Recorder Button.
 
 ### 3. Assemble the Adapted Recorder Button
 
-Reference the Assembly Guide section of the [Maker Guide](/Documentation/Product_Manual-Adapted_Recorder_Button.pdf) for the tools and steps required to build each portion.
+Reference the Assembly Guide section of the [Maker Guide](/documentation/Product_Manual-Adapted_Recorder_Button.pdf) for the tools and steps required to build each portion.
 
 ## How to improve this Device
 
@@ -69,10 +69,10 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Maker Guide          | 1.0     | [Adapted_Recorder_Button_Maker_Guide](/Documentation/Product_Manual-Adapted_Recorder_Button.pdf")     |
-| Bill of Materials    | 1.0     | [Adapted_Recorder_Button_Bill_of_Materials](/Documentation/Adapted_Recorder_Button_BOM.csv)     |
-| User Guide           | 1.0     | [Adapted_Recorder_Button_User_Guide](/Documentation/Product_Manual-Adapted_Recorder_Button.pdf)    |
-| Changelog            | 1.0     | [Adapted_Recorder_Button_Changelog](/Documentation/CHANGES.txt)     |
+| Maker Guide          | 1.0     | [Adapted_Recorder_Button_Maker_Guide](/documentation/Product_Manual-Adapted_Recorder_Button.pdf")     |
+| Bill of Materials    | 1.0     | [Adapted_Recorder_Button_Bill_of_Materials](/documentation/Adapted_Recorder_Button_BOM.csv)     |
+| User Guide           | 1.0     | [Adapted_Recorder_Button_User_Guide](/documentation/Product_Manual-Adapted_Recorder_Button.pdf)    |
+| Changelog            | 1.0     | [Adapted_Recorder_Button_Changelog](/documentation/CHANGES.txt)     |
 
 ## Open Hardware Attribution
 
@@ -102,7 +102,7 @@ Source Location: <https://github.com/makersmakingchange/Playback-Switch>
 <!-- ABOUT EG START -->
 ## About Engineering Good
 
-<img src="Photos/EG-staff-and-volunteers-2025-scaled.jpg" width="500" alt="Picture of EG staff and volunteers.">
+<img src="photos/EG-staff-and-volunteers-2025-scaled.jpg" width="500" alt="Picture of EG staff and volunteers.">
 
 - Website: [https://www.engineeringgood.org](https://www.engineeringgood.org)
 - GitHub: [Engineering Good](https://github.com/Engineering-Good)
@@ -114,5 +114,5 @@ Source Location: <https://github.com/makersmakingchange/Playback-Switch>
 
 ### Contact Us
 
-For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.engineeringgood.org/) or [contact us](https://www.engineeringgood.org/contact-faq/) or [Email us](mailto:contactus@engineeringgood.org).
+For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.engineeringgood.org/) or [contact us](https://www.engineeringgood.org/contact-faq/) or email us at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org).
 <!-- ABOUT EG END -->
