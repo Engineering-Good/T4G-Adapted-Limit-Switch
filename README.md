@@ -41,15 +41,11 @@ The current version of the device (v1.0) has been built and user tested.
 
 This is an open-source assistive technology, so anyone is free to build it. All of the files and instructions required to build the device are contained within this repository. Refer to the Maker Guide below.
 
-### 2. Request a build of this device
+### 2. Get Involved: Requests & Volunteering
 
- [Pending for update]
+- Need this device? If you or someone you know could benefit from the Adapted Recorder Button, please send us an email at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org). We also invite you to share your journey with us—your stories and feedback help us make our assistive tech even better!
 
-### 3. Build this device for someone else
-
- [Pending for update]
-
-## Build Instructions
+- Want to help? We are always looking for volunteers to help build these devices for the community. If you have the skills and want to contribute, please contact us via email at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org).
 
 ### 1. Read through the Maker Guide
 
@@ -118,5 +114,5 @@ Source Location: <https://github.com/makersmakingchange/Playback-Switch>
 
 ### Contact Us
 
-For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.engineeringgood.org/) or [contact us](contactus@engineeringgood.org).
+For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.engineeringgood.org/) or [contact us](https://www.engineeringgood.org/contact-faq/) or [Email us](mailto:contactus@engineeringgood.org).
 <!-- ABOUT EG END -->
