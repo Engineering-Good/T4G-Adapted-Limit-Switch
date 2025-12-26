@@ -22,15 +22,15 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 1. Read through the Maker Guide
 
-The [Maker Guide](/documentation/Product_Manual-Adapted_Recorder_Button.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, and testing.
+The [Maker Guide](/documentation/Product_Manual_Adapted_Limit_Switch.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, and testing.
 
 ### 2. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/documentation/Adapted_Recorder_Button_BOM.csv) lists all of the parts and components required to build the Adapted Recorder Button.
+The [Bill of Materials](/documentation/Adapted_Limit_Switch_BOM.csv) lists all of the parts and components required to build the Adapted Recorder Button.
 
 ### 3. Assemble the Adapted Recorder Button
 
-Reference the Assembly Guide section of the [Maker Guide](/documentation/Product_Manual-Adapted_Recorder_Button.pdf) for the tools and steps required to build each portion.
+Reference the Assembly Guide section of the [Maker Guide](/documentation/Product_Manual_Adapted_Limit_Switch.pdf) for the tools and steps required to build each portion.
 
 ## How to improve this Device
 
@@ -42,10 +42,10 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Maker Guide          | 1.0     | [Template_Maker_Guide](/documentation/Product_Manual_Adapted_Limit_Switch.pdf)     |
-| Bill of Materials    | 1.0     | [Template_Bill_of_Materials](/documentation/Adapted_Limit_Switch_BOM.csv)     |
-| User Guide           | 1.0     | [Template_User_Guide](/documentation/Product_Manual_Adapted_Limit_Switch.pdf)    |
-| Changelog            | 1.0     | [Template_Change_Log](/documentation/CHANGES.txt)     |
+| Maker Guide          | 1.0     | [Adapted_Limit_Switch_Maker_Guide](/documentation/Product_Manual_Adapted_Limit_Switch.pdf)     |
+| Bill of Materials    | 1.0     | [Adapted_Limit_Switch_Bill_of_Materials](/documentation/Adapted_Limit_Switch_BOM.csv)     |
+| User Guide           | 1.0     | [Adapted_Limit_Switch_User_Guide](/documentation/Product_Manual_Adapted_Limit_Switch.pdf)    |
+| Changelog            | 1.0     | [Adapted_Limit_Switch_Change_Log](/documentation/CHANGES.txt)     |
 
 ## Open Hardware Attribution
 
@@ -53,7 +53,7 @@ The core design for this Adapted Limit Switch is based on the Open Wobble Switch
 - Original Designer: Makers Making Change (a program of Neil Squire).
 - Original Copyright:  Copyright (c) Neil Squire / Makers Making Change.
 - Original Source Location: The original project source files are available online at: 
-<https://github.com/makersmakingchange/Open-Wobble-Switch>
+<https://www.makersmakingchange.com/product/open-wobble-switch/01tJR000000698oYAA>
 
 ## License
 
@@ -69,7 +69,7 @@ You may redistribute and modify this documentation and make products using it un
 This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
 Please see the CERN-OHL-W v2 for applicable conditions.
 
-Source Location: <https://github.com/makersmakingchange/Playback-Switch>
+Source Location: <https://github.com/makersmakingchange/Open-Wobble-Switch>
 
 ----
 
