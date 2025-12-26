@@ -1,4 +1,9 @@
 # Byte-compiled / optimized / DLL files
+<<<<<<< HEAD
+=======
+*:Zone.Identifier
+
+>>>>>>> template/main
 __pycache__/
 *.py[codz]
 *$py.class
