@@ -24,7 +24,7 @@ Any text that is currently holding a space / is an instruction for the person fi
 <!--- TITLE --->
 # <DeviceName>
 <!--- SUMMARY --->
-The is an assistive technology device that .
+The is an assistive technology device that.
 
 The device is comprised of off-the-shelf electronics and 3D printed parts.
 
@@ -72,14 +72,15 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 | Maker Guide          | 1.0     | [Template_Maker_Guide](/documentation/Product_Manual_Template_Product_Name.pdf)     |
 | Bill of Materials    | 1.0     | [Template_Bill_of_Materials](/documentation/Template_BOM.csv)     |
 | User Guide           | 1.0     | [Template_User_Guide](/documentation/Product_Manual_Template_Product_Name.pdf)    |
-| Changelog            | 1.0     | [Template_Changelog](/documentation/CHANGES.txt)     |
+| Changelog            | 1.0     | [Template_Change_Log](/documentation/CHANGES.txt)     |
 
 ## Open Hardware Attribution
 
-The core design for this Adapted Recorder Button is based on the Playback Switch, an open-source assistive technology project.
-Original Designer: Makers Making Change (a program of Neil Squire).
-Original Copyright:  Copyright (c) Neil Squire / Makers Making Change.
-Original Source Location: The original project source files are available online at: <https://www.makersmakingchange.com/product/playback-switch/01tJR000003S43lYAC>
+The core design for this device/template is based on the some device/template, an open-source assistive technology project.
+- Original Designer: Makers Making Change (a program of Neil Squire).
+- Original Copyright:  Copyright (c) Neil Squire / Makers Making Change.
+- Original Source Location: The original project source files are available online at: 
+<https://github.com/makersmakingchange/OpenAT-Template>
 
 ## License
 
