@@ -16,7 +16,7 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 2. Get Involved: Requests & Volunteering
 
-- Need this device? If you or someone you know could benefit from the Adapted Recorder Button, please send us an email at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org). We also invite you to share your journey with us! Tell us your stories about the device and feedback help us make our assistive tech even better!
+- Need this device? If you or someone you know could benefit from the Adapted Limit Switch, please send us an email at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org). We also invite you to share your journey with us! Tell us your stories about the device and feedback help us make our assistive tech even better!
 
 - Want to help? We are always looking for volunteers to help build these devices for the community. If you have the skills and want to contribute, please contact us via email at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org).
 
@@ -28,9 +28,9 @@ The [Maker Guide](/documentation/Product_Manual_Adapted_Limit_Switch.pdf)  conta
 
 ### 2. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/documentation/Adapted_Limit_Switch_BOM.csv) lists all of the parts and components required to build the Adapted Recorder Button.
+The [Bill of Materials](/documentation/Adapted_Limit_Switch_BOM.csv) lists all of the parts and components required to build the Adapted Limit Switch.
 
-### 3. Assemble the Adapted Recorder Button
+### 3. Assemble the Adapted Limit Switch
 
 Reference the Assembly Guide section of the [Maker Guide](/documentation/Product_Manual_Adapted_Limit_Switch.pdf) for the tools and steps required to build each portion.
 
