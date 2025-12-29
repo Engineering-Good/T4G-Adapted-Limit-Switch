@@ -1,10 +1,10 @@
-
-
 # Adapted Limit Switch
 <!--- TITLE --->
 <!--- Open Source Assistive Technology: GitHub Readme Template --->
 <!--- SUMMARY --->
 The Adapted Limit Switch is a cost effective, open source assistive switch similar to commercially available Wobble Switches. The switch is activated by applying force to and moving a wand in any direction. The switch can be activated by various body parts including the limbs and head. It provides a momentary closed contact that can be used to activate various assistive devices. The Adapted Limit Switch has an interchangeable topper that can be swapped for different shapes and sizes and the base can install with different type of camera mount or clamp . The switch requires approximately 0.55 N (55 gf) and about 24 mm of travel to operate, though this will vary a bit depending on the topper attached.
+
+The current version of the device (v1.0) has been built and user tested.
 
 <img src="photos/Adapted-Limit-Swtich.jpg" width="500" alt="Picture of Adapted Limit Swtich">
 
