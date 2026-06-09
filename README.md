@@ -54,8 +54,7 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 The core design for this Adapted Limit Switch is based on the Open Wobble Switch, an open-source assistive technology project.
 - Original Designer: Makers Making Change (a program of Neil Squire).
 - Original Copyright:  Copyright (c) Neil Squire / Makers Making Change.
-- Original Source Location: The original project source files are available online at: 
-<https://www.makersmakingchange.com/product/open-wobble-switch/01tJR000000698oYAA>
+- Original Source Location: The original project source files are available online at [Open Wobble Switch](https://www.makersmakingchange.com/product/open-wobble-switch/01tJR000000698oYAA0)
 
 ## License
 
@@ -63,9 +62,9 @@ Copyright (c) 2024 Engineering Good.
 
 This repository describes Open Hardware:
 
-- Everything needed or used to design, make, test, or prepare the Adapted Limit Switch is licensed under the [CERN 2.0 Weakly Reciprocal license (CERN-OHL-W v2) or later](https://cern.ch/cern-ohl ).
+- Everything needed or used to design, make, test, or prepare the Adapted Limit Switch is licensed under the [CERN 2.0 Weakly Reciprocal license (CERN-OHL-W v2) or later](https://cern.ch/cern-ohl).
 - All software is under the [GNU General Public License v3.0 (GPL-3.0)](https://www.gnu.org/licenses/gpl.html).
-- Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Playback Switch are published under a [Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
+- Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Adapted Limit Switch are published under a [Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 
 You may redistribute and modify this documentation and make products using it under the terms of the [CERN-OHL-W v2](https://cern.ch/cern-ohl).
 This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
@@ -85,11 +84,15 @@ Source Location: <https://github.com/makersmakingchange/Open-Wobble-Switch>
 - Instagram: [@engineeringgood](https://www.instagram.com/engineeringgood/)
 - Facebook: [engineeringgood](https://www.facebook.com/engineeringgood.org/)
 - LinkedIn: [engineeringgood](https://www.linkedin.com/company/engineeringgood/?originalSubdomain=sg)
-- Thingiverse: Not Created
-- Printables: Not Created
+- Thingiverse: [engineeringgood](https://www.thingiverse.com/engineeringgood/designs)
+- Printables: [@engineeringg_4351657](https://www.printables.com/@engineeringg_4351657)
 
 ### Contact Us
 
-For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.engineeringgood.org/), [contact us](https://www.engineeringgood.org/contact-faq/) or email us at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org).
+For technical or non-techical questions, to get involved, or to share your experience we encourage you to 
+- Visit [our website](https://www.engineeringgood.org/)
+- Vontact us via [contact us form](https://www.engineeringgood.org/contact-faq/)
+- Email us at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org)
+- Volunteering Opportunities [working in progress](https://www.notion.so/engineeringgood/Volunteering-Opportunities-2025-ffa3d3ec8bb34ac7a672f5c10ee8177b)
 <!-- ABOUT EG END -->
 
